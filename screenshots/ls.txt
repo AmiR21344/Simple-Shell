@@ -1,0 +1,11 @@
+README.md
+lsh
+main.c
+screenshots
+test_cd_invalid.txt
+test_cd_noarg.txt
+test_help.txt
+test_invalid.txt
+test_long.txt
+test_ls.txt
+> > 

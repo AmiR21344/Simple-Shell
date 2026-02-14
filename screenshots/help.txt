@@ -1,0 +1,8 @@
+> Stephen Brennan's LSH
+Type program names and arguments, and hit enter.
+The following are built in:
+  cd
+  help
+  exit
+Use the man command for information on other programs.
+> 
